@@ -1,0 +1,69 @@
+{
+  "name": "test_add[int]",
+  "status": "passed",
+  "attachments": [
+    {
+      "name": "stdout",
+      "source": "bad6798e-1b41-447f-b281-f4edae59888a-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [
+    {
+      "name": "a",
+      "value": "1"
+    },
+    {
+      "name": "b",
+      "value": "2"
+    },
+    {
+      "name": "expect",
+      "value": "3"
+    }
+  ],
+  "start": 1610075916592,
+  "stop": 1610075916593,
+  "uuid": "9ac940bb-a68a-4109-863e-80e52a175e5a",
+  "historyId": "f0ec9101ca49efaf56de1944b2724cd9",
+  "testCaseId": "a7b29b08300809261dc069b49da8543b",
+  "fullName": "test_calc.TestCalc#test_add",
+  "labels": [
+    {
+      "name": "feature",
+      "value": "计算器计算"
+    },
+    {
+      "name": "story",
+      "value": "测试加法"
+    },
+    {
+      "name": "suite",
+      "value": "test_calc"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestCalc"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-NUOF2Q4"
+    },
+    {
+      "name": "thread",
+      "value": "11080-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "test_calc"
+    }
+  ]
+}

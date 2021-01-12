@@ -1,0 +1,29 @@
+{
+  "total": 2,
+  "items": [
+    {
+      "uid": "6b0d4f6ad7441334d358a085f40d2ba9",
+      "name": "计算器计算",
+      "statistic": {
+        "failed": 0,
+        "broken": 0,
+        "skipped": 0,
+        "passed": 2,
+        "unknown": 0,
+        "total": 2
+      }
+    },
+    {
+      "uid": "565763802f89657ef3de8d1d1f6d87c0",
+      "name": "类外面的测试用例",
+      "statistic": {
+        "failed": 0,
+        "broken": 0,
+        "skipped": 0,
+        "passed": 1,
+        "unknown": 0,
+        "total": 1
+      }
+    }
+  ]
+}

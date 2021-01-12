@@ -1,0 +1,30 @@
+{
+  "uuid": "30d5f237-3fb7-4a16-853f-e67dca90d252",
+  "children": [
+    "9ac940bb-a68a-4109-863e-80e52a175e5a",
+    "36f74f39-d257-4471-b078-c39ddfd5ea67",
+    "7bb899dd-009a-4e2d-b75f-2290c4ea83cd",
+    "46bb0ff1-0f32-4fc4-9dff-7150e99e8b4d",
+    "8b6da16b-e412-44de-b8ed-b4f9568a8f9f",
+    "6cc2fd7c-6a91-446e-8632-d323bf5de272",
+    "a37772d4-bf2b-4142-9fd3-3ab81820195e"
+  ],
+  "befores": [
+    {
+      "name": "_Class__pytest_setup_class",
+      "status": "passed",
+      "start": 1610075916591,
+      "stop": 1610075916591
+    }
+  ],
+  "afters": [
+    {
+      "name": "_Class__pytest_setup_class::0",
+      "status": "passed",
+      "start": 1610075916631,
+      "stop": 1610075916631
+    }
+  ],
+  "start": 1610075916591,
+  "stop": 1610075916631
+}

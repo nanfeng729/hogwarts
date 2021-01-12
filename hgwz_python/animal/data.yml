@@ -1,0 +1,13 @@
+cat:
+  name: '叮当猫'
+  color: '橘色'
+  age: '2岁'
+  sex: '公猫'
+  hair: "短毛"
+
+dog:
+  name: '贵妇犬'
+  color: '白色'
+  age: '1岁'
+  sex: '母狗'
+  hair: '长毛'

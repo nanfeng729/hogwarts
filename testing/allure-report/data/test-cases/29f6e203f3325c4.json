@@ -1,0 +1,80 @@
+{
+  "uid": "29f6e203f3325c4",
+  "name": "test_a",
+  "fullName": "test_calc#test_a",
+  "historyId": "22cd20635ad46f6e8a05835f869f242a",
+  "time": {
+    "start": 1610075916588,
+    "stop": 1610075916588,
+    "duration": 0
+  },
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "beforeStages": [],
+  "testStage": {
+    "status": "passed",
+    "steps": [],
+    "attachments": [
+      {
+        "uid": "239fb03974337ee6",
+        "name": "stdout",
+        "source": "239fb03974337ee6.txt",
+        "type": "text/plain",
+        "size": 14
+      }
+    ],
+    "parameters": [],
+    "attachmentsCount": 1,
+    "shouldDisplayMessage": false,
+    "stepsCount": 0,
+    "hasContent": true
+  },
+  "afterStages": [],
+  "labels": [
+    {
+      "name": "feature",
+      "value": "类外面的测试用例"
+    },
+    {
+      "name": "suite",
+      "value": "test_calc"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-NUOF2Q4"
+    },
+    {
+      "name": "thread",
+      "value": "11080-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "test_calc"
+    },
+    {
+      "name": "resultFormat",
+      "value": "allure2"
+    }
+  ],
+  "parameters": [],
+  "links": [],
+  "hidden": false,
+  "retry": false,
+  "extra": {
+    "severity": "normal",
+    "retries": [],
+    "categories": [],
+    "tags": []
+  },
+  "source": "29f6e203f3325c4.json",
+  "parameterValues": []
+}

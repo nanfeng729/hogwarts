@@ -1,0 +1,170 @@
+{
+  "uid": "b1a8273437954620fa374b796ffaacdd",
+  "name": "behaviors",
+  "children": [
+    {
+      "name": "类外面的测试用例",
+      "children": [
+        {
+          "name": "test_a",
+          "uid": "29f6e203f3325c4",
+          "parentUid": "565763802f89657ef3de8d1d1f6d87c0",
+          "status": "passed",
+          "time": {
+            "start": 1610075916588,
+            "stop": 1610075916588,
+            "duration": 0
+          },
+          "flaky": false,
+          "newFailed": false,
+          "parameters": []
+        }
+      ],
+      "uid": "565763802f89657ef3de8d1d1f6d87c0"
+    },
+    {
+      "name": "计算器计算",
+      "children": [
+        {
+          "name": "测试加法",
+          "children": [
+            {
+              "name": "test_add[int]",
+              "uid": "2893e46b9f64df2d",
+              "parentUid": "b24f091062e770518dd5bda20aa6a4ed",
+              "status": "passed",
+              "time": {
+                "start": 1610075916592,
+                "stop": 1610075916593,
+                "duration": 1
+              },
+              "flaky": false,
+              "newFailed": false,
+              "parameters": [
+                "1",
+                "2",
+                "3"
+              ]
+            },
+            {
+              "name": "test_add[float]",
+              "uid": "243e2ecaed97c5d9",
+              "parentUid": "b24f091062e770518dd5bda20aa6a4ed",
+              "status": "passed",
+              "time": {
+                "start": 1610075916599,
+                "stop": 1610075916599,
+                "duration": 0
+              },
+              "flaky": false,
+              "newFailed": false,
+              "parameters": [
+                "0.1",
+                "0.1",
+                "0.2"
+              ]
+            },
+            {
+              "name": "test_add[negative]",
+              "uid": "b4bdd75e8f433953",
+              "parentUid": "b24f091062e770518dd5bda20aa6a4ed",
+              "status": "passed",
+              "time": {
+                "start": 1610075916606,
+                "stop": 1610075916606,
+                "duration": 0
+              },
+              "flaky": false,
+              "newFailed": false,
+              "parameters": [
+                "-1",
+                "-1",
+                "-2"
+              ]
+            },
+            {
+              "name": "test_add[round]",
+              "uid": "7b121b7acb2e4e59",
+              "parentUid": "b24f091062e770518dd5bda20aa6a4ed",
+              "status": "passed",
+              "time": {
+                "start": 1610075916611,
+                "stop": 1610075916612,
+                "duration": 1
+              },
+              "flaky": false,
+              "newFailed": false,
+              "parameters": [
+                "0.1",
+                "0.2",
+                "0.3"
+              ]
+            }
+          ],
+          "uid": "b24f091062e770518dd5bda20aa6a4ed"
+        },
+        {
+          "name": "测试除法",
+          "children": [
+            {
+              "name": "test_chufa[2-2-1]",
+              "uid": "5209f6087d548d9",
+              "parentUid": "16c3073bb8e3d41d2b61929ad177e5f6",
+              "status": "passed",
+              "time": {
+                "start": 1610075916617,
+                "stop": 1610075916617,
+                "duration": 0
+              },
+              "flaky": false,
+              "newFailed": false,
+              "parameters": [
+                "2",
+                "2",
+                "1"
+              ]
+            },
+            {
+              "name": "test_chufa[0-1-0]",
+              "uid": "2d527a162a732b08",
+              "parentUid": "16c3073bb8e3d41d2b61929ad177e5f6",
+              "status": "passed",
+              "time": {
+                "start": 1610075916623,
+                "stop": 1610075916623,
+                "duration": 0
+              },
+              "flaky": false,
+              "newFailed": false,
+              "parameters": [
+                "0",
+                "1",
+                "0"
+              ]
+            },
+            {
+              "name": "test_chufa[1-0-除数不能为0]",
+              "uid": "cd8cd034cae903bc",
+              "parentUid": "16c3073bb8e3d41d2b61929ad177e5f6",
+              "status": "passed",
+              "time": {
+                "start": 1610075916628,
+                "stop": 1610075916628,
+                "duration": 0
+              },
+              "flaky": false,
+              "newFailed": false,
+              "parameters": [
+                "1",
+                "0",
+                "'除数不能为0'"
+              ]
+            }
+          ],
+          "uid": "16c3073bb8e3d41d2b61929ad177e5f6"
+        }
+      ],
+      "uid": "6b0d4f6ad7441334d358a085f40d2ba9"
+    }
+  ]
+}

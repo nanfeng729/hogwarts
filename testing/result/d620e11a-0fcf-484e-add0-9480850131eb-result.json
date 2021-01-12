@@ -1,0 +1,47 @@
+{
+  "name": "test_a",
+  "status": "passed",
+  "attachments": [
+    {
+      "name": "stdout",
+      "source": "b0ae48bd-bd89-4933-96cc-19ea81cd4211-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "start": 1610075916588,
+  "stop": 1610075916588,
+  "uuid": "7061544e-9172-4440-9bb6-f7f729dee9a6",
+  "historyId": "22cd20635ad46f6e8a05835f869f242a",
+  "testCaseId": "7395de1772c1fd704234d220e2b9468b",
+  "fullName": "test_calc#test_a",
+  "labels": [
+    {
+      "name": "feature",
+      "value": "类外面的测试用例"
+    },
+    {
+      "name": "suite",
+      "value": "test_calc"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-NUOF2Q4"
+    },
+    {
+      "name": "thread",
+      "value": "11080-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "test_calc"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuites>
+    <testsuite errors="0" failures="1" hostname="DESKTOP-NUOF2Q4" name="pytest" skipped="0" tests="7" time="0.068"
+               timestamp="2020-12-10T18:31:50.634406">
+        <testcase classname="test_calc" name="test_a" time="0.002"/>
+        <testcase classname="test_calc.TestCalc" name="test_add" time="0.000"/>
+        <testcase classname="test_calc.TestCalc" name="test_add2" time="0.000"/>
+        <testcase classname="test_calc.TestCalc" name="test_add3" time="0.001"/>
+        <testcase classname="test_demo" name="test_a" time="0.001"/>
+        <testcase classname="test_demo" name="test_b" time="0.001"/>
+        <testcase classname="test_demo" name="test_c" time="0.001">
+            <failure message="assert 1 == 2">def test_c():
+                &gt; assert 1==2
+                E assert 1 == 2
+
+                test_demo.py:6: AssertionError
+            </failure>
+        </testcase>
+    </testsuite>
+</testsuites>

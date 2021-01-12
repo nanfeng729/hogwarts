@@ -1,0 +1,62 @@
+{
+  "name": "test_chufa[0-1-0]",
+  "status": "passed",
+  "parameters": [
+    {
+      "name": "a",
+      "value": "0"
+    },
+    {
+      "name": "b",
+      "value": "1"
+    },
+    {
+      "name": "expect",
+      "value": "0"
+    }
+  ],
+  "start": 1610075916623,
+  "stop": 1610075916623,
+  "uuid": "6cc2fd7c-6a91-446e-8632-d323bf5de272",
+  "historyId": "625aa1c7b0b2b001420139370222deb6",
+  "testCaseId": "e540ce592a0f27f1a1618d8990c42c90",
+  "fullName": "test_calc.TestCalc#test_chufa",
+  "labels": [
+    {
+      "name": "feature",
+      "value": "计算器计算"
+    },
+    {
+      "name": "story",
+      "value": "测试除法"
+    },
+    {
+      "name": "suite",
+      "value": "test_calc"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestCalc"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-NUOF2Q4"
+    },
+    {
+      "name": "thread",
+      "value": "11080-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "test_calc"
+    }
+  ]
+}
